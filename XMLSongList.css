@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* CSS Document */
+record {display:block; border-bottom: 1px solid #B10A0A; padding: 8px 30px; background-color: #E6E3DC; text-align: center;}
+record songtitle {font-size: 30px; font-weight: 700; color:#B10A0A;}
+record artists {display:block; font-weight: 700;}
+record artists:before {content:"Artist(s): "; font-weight: 400; }
+record genre {display:block; font-weight: 700;}
+record genre:before {content:"Music genre: "; font-weight: 400;}
+record year {display:block; font-weight: 700;}
+record year:before {content:"Release year: "; font-weight: 400;}

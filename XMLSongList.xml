@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="XMLSongList.css" ?>
+<Playlist>
+	<record>
+		<songtitle>Dandelions</songtitle>
+		<artists>
+			<name>Ruth B.</name>
+		</artists>
+		<genre>Pop</genre>
+		<year>2017</year>
+	</record>
+	<record>
+		<songtitle>Roddy</songtitle>
+		<artists>
+			<name>Djo</name>
+		</artists>
+		<genre>Alternative/Indie</genre>
+		<year>2019</year>
+	</record>
+	<record>
+		<songtitle>r u ok</songtitle>
+		<artists>
+			<name>Tate McRae</name>
+		</artists>
+		<genre>Pop</genre>
+		<year>2020</year>
+	</record>
+	<record>
+		<songtitle>Saturday Nights</songtitle>
+		<artists>
+			<name>Khalid</name>
+		</artists>
+		<genre>RandB/Soul</genre>
+		<year>2018</year>
+	</record>
+	<record>
+		<songtitle>Numb</songtitle>
+		<artists>
+			<name>Linkin Park</name>
+		</artists>
+		<genre>Alternative rock</genre>
+		<year>2003</year>
+	</record>
+	<record>
+		<songtitle>Silence</songtitle>
+		<artists>
+			<name>Marshmello </name>
+			<name>and Khalid</name>
+		</artists>
+		<genre>Electronic Dance Music</genre>
+		<year>2017</year>
+	</record>
+	<record>
+		<songtitle>Don't Stop Me Now</songtitle>
+		<artists>
+			<name>Queen </name>
+		</artists>
+		<genre>Classic Rock</genre>
+		<year>1979</year>
+	</record>
+	<record>
+		<songtitle>Free</songtitle>
+		<artists>
+			<name>Louid The Child</name>
+			<name>and Drew Love</name>
+		</artists>
+		<genre>Electronic Dance Music</genre>
+		<year>2020</year>
+	</record>
+	<record>
+		<songtitle>Midnight City</songtitle>
+		<artists>
+			<name>M83 </name>
+		</artists>
+		<genre>Alternative/Indie</genre>
+		<year>2011</year>
+	</record>
+	<record>
+		<songtitle>Dusk Till Dawn</songtitle>
+		<artists>
+			<name>Zayn </name>
+			<name>and Sia</name>
+		</artists>
+		<genre>Pop</genre>
+		<year>2017</year>
+	</record>
+	<record>
+		<songtitle>Stole The Show</songtitle>
+		<artists>
+			<name>Kygo </name>
+		</artists>
+		<genre>Pop</genre>
+		<year>2015</year>
+	</record>
+</Playlist>
