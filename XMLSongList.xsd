@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:simpleType name="stringtype">
+  <xs:restriction base="xs:string"/>
+</xs:simpleType>
+
+<xs:simpleType name="inttype">
+  <xs:restriction base="xs:positiveInteger"/>
+</xs:simpleType>
+
+<xs:complexType name="artiststype">
+  		<xs:sequence>
+    		<xs:element name="name" maxOccurs="unbounded" type="stringtype" />
+  		</xs:sequence>
+</xs:complexType>
+
+
+<xs:complexType name="recordtype">
+  <xs:sequence>
+    <xs:element name="songtitle" type="stringtype"/>
+	<xs:element name="artists" type="artiststype"/>
+    <xs:element name="genre" type="stringtype"/>
+    <xs:element name="year" type="inttype"/>
+  </xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="Playlisttype">
+  <xs:sequence>
+    <xs:element name="record" maxOccurs="unbounded" type="recordtype"/>
+  </xs:sequence>
+</xs:complexType>
+
+<xs:element name="Playlist" type="Playlisttype"/>
+
+</xs:schema>	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</xs:schema>
